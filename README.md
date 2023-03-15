@@ -11,3 +11,7 @@ The following contents is a collection of some of the technical writing project 
 [Pluralsight Work Log Help Center Article](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/Work-log.pdf)
 
 [README.md Template](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/README_TEMPLATE.md)
+
+[Mobile Articles](https://github.com/coreyfoard/Technical-Writing-Portfolio/tree/main/Mobile%20Articles)
+
+[Web Articles](https://github.com/coreyfoard/Technical-Writing-Portfolio/tree/main/Web%20Articles)
