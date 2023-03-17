@@ -11,7 +11,7 @@ The following is a collection of some of the technical writing project I have co
 
 [DITA Writing Sample](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/DITA%20Writing%20Sample.pdf)
 
-[Pluralsight Work Log Help Center Article](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/Work-log.pdf)
+[Pluralsight Work Log Help Center Article](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/Web%20Articles/Work-log.pdf)
 
 [README.md Template](https://github.com/coreyfoard/Technical-Writing-Portfolio/blob/main/README_TEMPLATE.md)
 
