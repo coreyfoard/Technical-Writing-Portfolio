@@ -2,7 +2,7 @@
 
 Welcome! 
 
-My name is Corey Foard, and I'm a Technical Writer with over three years experience working with Product and Technology teams in exceptionally fast-paced and innovative environments. I have a passion for creating awesome product documentation to provide end-users with the best possible customer experience as well as experieance in leading documentation strategies for internal and external audiences. 
+My name is Corey Foard, and I'm a Technical Writer with over five years experience working with Product and Technology teams in exceptionally fast-paced and innovative environments. I have a passion for creating awesome product documentation to provide end-users with the best possible customer experience as well as experieance in leading documentation strategies for internal and external audiences. 
 
 The following is a collection of some of the technical writing project I have completed over the last five years. If you have any questions or would like more details, please contact me at coreyfoard22@gmail.com.
 ## Contents
