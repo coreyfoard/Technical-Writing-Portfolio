@@ -1,8 +1,7 @@
-# Technical-Writing-Portfolio
+# Corey Foard – Technical Writer
 
-Welcome! 
+As a technical writer and content designer, I create digital content that makes complex concepts accessible, empowering users to adopt and engage with digital tools confidently. With expertise in usability, enablement, and information design, I have designed content that helps users realize greater value through support guides, in-app guidance, and video training modules. Whether designing scalable content systems, optimizing processes for efficiency, or diving deep into user feedback, I aim to bridge the gap between technology and its users, enabling success every step of the way.
 
-My name is Corey Foard, and I'm a Technical Writer with over three years experience working with Product and Technology teams in exceptionally fast-paced and innovative environments. I have a passion for creating awesome product documentation to provide end-users with the best possible customer experience as well as experieance in leading documentation strategies for internal and external audiences. 
 
 The following is a collection of some of the technical writing project I have completed over the last five years. If you have any questions or would like more details, please contact me at coreyfoard22@gmail.com.
 ## Contents
