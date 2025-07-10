@@ -41,7 +41,7 @@ direct, and precise. The goal is to provide information that's easy to search an
 
 The voice in the documentation should be conversational but brief, friendly but succinct.
 
-Please write the in [present tense](https://developers.google.com/style/tense) and use [active voice](https://developers.google.com/style/voice) as often as possible.
+Please write in the [present tense](https://developers.google.com/style/tense) and use [active voice](https://developers.google.com/style/voice) as often as possible.
 
 ### Present tense
 
